@@ -1,6 +1,6 @@
 *{
   box-sizing = border-box;
-  background-color: #D21C3A ;
+  background-color: #fff ;
  }
 
 section{
@@ -34,7 +34,7 @@ h2 {
    }
 
 h1{
-  color: #FFFFFF; 
+  color: black; 
   text-align: center; 
   }
   
