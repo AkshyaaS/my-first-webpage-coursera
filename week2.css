@@ -6,7 +6,7 @@ section3{border: 2px solid black;margin: 10px; height: 400px; overflow: auto;bac
 p{ margin-right: 2px;clear: right;font-family: Brush Script, cursive; font-size: 120%;background-color: #FAD002;  }
 h2 {border: 5px solid black; margin-top: 0px; margin bottom: 10px; padding: 5px 20px 5px 20px;}
 h1{color: #FFFFFF; text-align: center; }
-#lord{background-color: #FFC300;}
+#lord{background-color: green;}
 #harry{background-color: red;}
 #percy{background-color: blue;}
 
