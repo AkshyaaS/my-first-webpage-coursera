@@ -1,9 +1,9 @@
 *{box-sizing = border-box;
-background-color: #D21C3A ;}
+background-color: #0F9777 ;}
 
-section{border: 2px solid black; margin: 10px;  height: 400px; overflow: auto; background-color: lavender;}
-section3{border: 2px solid black;margin: 10px; height: 400px; overflow: auto;background-color: lavender;}
-p{ margin-right: 2px;clear: right;font-family: Brush Script, cursive; font-size: 120%;background-color: lavender;  }
+section{border: 2px solid black; margin: 10px;  height: 400px; overflow: auto; background-color: #FAD002;}
+section3{border: 2px solid black;margin: 10px; height: 400px; overflow: auto;background-color: #FAD002;}
+p{ margin-right: 2px;clear: right;font-family: Brush Script, cursive; font-size: 120%;background-color: #FAD002;  }
 h2 {border: 5px solid black; margin-top: 0px; margin bottom: 10px; padding: 5px 20px 5px 20px;}
 h1{color: #FFFFFF; text-align: center; }
 #lord{background-color: #FFC300;}
