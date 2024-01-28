@@ -1,5 +1,5 @@
 *{box-sizing = border-box;
-background-imager: "fantasy.jpg" ;}
+background-image: "fantasy.jpg" ;}
 
 section{border: 2px solid black; margin: 10px;  height: 400px; overflow: auto; background-color: #FAD002;}
 section3{border: 2px solid black;margin: 10px; height: 400px; overflow: auto;background-color: #FAD002;}
